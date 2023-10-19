@@ -8,6 +8,7 @@ public class Reverse {
 			b=b+a.charAt(i);
 //			System.out.println(b);
 		}
+		System.out.println("mathivadhani velumurugan");
 //		System.out.println(b);
 		if(a.equals(b)) {
 			System.out.println("panlindrome");
