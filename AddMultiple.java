@@ -12,6 +12,9 @@ public class AddMultiple {
 			
 		}
 		System.out.println(count);
+	    System.out.println("hello");
+	    System.out.println("hello");
+	
 	}
 
 }
